@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -aRl /boot/root/holbertonschool-shell
+ls -aRl /tmp
