@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -urh /./*.html /../*.html
+cp -hru /./*.html /../*.html
